@@ -1,6 +1,0 @@
-Feature: Login to Spree shopping website
-  Scenario: Simple login: As an user when I enter credentials and click on login, should  be able able to land on
-  Welcome page
-    Given I am on Home Page
-    When I provide credentials and click on login
-    Then I should be on Welcome page
